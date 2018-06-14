@@ -1,2 +1,2 @@
-xyzheng is a student.
-Git is a distributed version control system.
+xyzheng is a good student.
+Git is a  version control system.
